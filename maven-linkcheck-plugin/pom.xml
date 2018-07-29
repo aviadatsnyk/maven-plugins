@@ -58,7 +58,7 @@ under the License.
 
   <properties>
     <doxiaVersion>1.4</doxiaVersion>
-    <doxia-sitetoolsVersion>1.4</doxia-sitetoolsVersion>
+    <doxia-sitetoolsVersion>1.7</doxia-sitetoolsVersion>
     <mavenVersion>2.2.1</mavenVersion>
   </properties>
 
@@ -202,9 +202,9 @@ under the License.
                 <phase>integration-test</phase>
                 <configuration>
                   <target>
-                    <echo /><echo /><echo /><echo /><echo />
+                    <echo/><echo/><echo/><echo/><echo/>
                     <echo level="warning">NO INTEGRATION TESTS DEFINED</echo>
-                    <echo /><echo /><echo /><echo /><echo />
+                    <echo/><echo/><echo/><echo/><echo/>
                   </target>
                 </configuration>
                 <goals>
