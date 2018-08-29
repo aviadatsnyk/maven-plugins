@@ -59,7 +59,7 @@
   </distributionManagement>
 
   <properties>
-    <mavenVersion>3.0</mavenVersion>
+    <mavenVersion>3.5.0</mavenVersion>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
@@ -144,7 +144,7 @@
                       <exclude>org.ow2.asm:asm</exclude>
                     </excludes>
                   </enforceBytecodeVersion>
-                  <requireSameVersions />
+                  <requireSameVersions/>
                 </rules>
               </configuration>
             </execution>
