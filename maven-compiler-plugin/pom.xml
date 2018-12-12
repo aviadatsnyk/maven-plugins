@@ -58,7 +58,7 @@ under the License.
   </distributionManagement>
 
   <properties>
-    <mavenVersion>3.0</mavenVersion>
+    <mavenVersion>3.2.1</mavenVersion>
     <!--
       ! The following property is used in the integration tests MCOMPILER-157
     -->
@@ -204,7 +204,7 @@ under the License.
                       <exclude>org.ow2.asm:asm</exclude>
                     </excludes>
                   </enforceBytecodeVersion>
-                  <requireSameVersions />
+                  <requireSameVersions/>
                 </rules>
               </configuration>
             </execution>
