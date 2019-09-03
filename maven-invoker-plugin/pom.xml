@@ -68,7 +68,7 @@ under the License.
     <beanshell-version>2.0b4</beanshell-version>
     <groovy-groupId>org.codehaus.groovy</groovy-groupId>
     <groovy-artifactId>groovy-all</groovy-artifactId>
-    <groovy-version>2.2.2</groovy-version> <!-- latest 1.6 compatible -->
+    <groovy-version>2.4.7</groovy-version> <!-- latest 1.6 compatible -->
   </properties>
 
   <dependencies>
@@ -371,7 +371,7 @@ under the License.
         <jdk>[1.7,)</jdk>
       </activation>
       <properties>
-        <groovy-version>2.4.8</groovy-version>
+        <groovy-version>2.4.7</groovy-version>
       </properties>
       <build>
         <plugins>
