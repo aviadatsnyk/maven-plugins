@@ -227,7 +227,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-shared-utils</artifactId>
-      <version>3.2.0</version>
+      <version>3.3.3</version>
     </dependency>
 
     <dependency>
@@ -407,7 +407,7 @@ under the License.
                   <source>src/test/resources/m2repo</source>
                 </mockRepo>
                  -->
-                <proxyRepo />
+                <proxyRepo/>
               </repositories>
             </configuration>
           </plugin>
