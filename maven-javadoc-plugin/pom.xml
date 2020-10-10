@@ -216,7 +216,7 @@ under the License.
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
-      <version>4.5.2</version>
+      <version>4.5.13</version>
     </dependency>
 
     <dependency>
@@ -449,7 +449,7 @@ under the License.
                     <mockRepo>
                       <source>src/it/mrm/repository</source>
                     </mockRepo>
-                    <proxyRepo />
+                    <proxyRepo/>
                   </repositories>
                 </configuration>
               </execution>
