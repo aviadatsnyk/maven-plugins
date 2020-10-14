@@ -57,7 +57,7 @@ under the License.
   </distributionManagement>
 
   <properties>
-    <mavenVersion>2.2.1</mavenVersion>
+    <mavenVersion>3.0</mavenVersion>
   </properties>
 
   <dependencyManagement>
@@ -65,7 +65,7 @@ under the License.
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
-        <version>4.5</version>
+        <version>4.13.1</version>
         <scope>test</scope>
       </dependency>
     </dependencies>
