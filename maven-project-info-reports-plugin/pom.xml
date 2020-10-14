@@ -114,7 +114,7 @@ under the License.
   <properties>
     <doxiaVersion>1.6</doxiaVersion>
     <doxia-sitetoolsVersion>1.6</doxia-sitetoolsVersion>
-    <mavenVersion>2.2.1</mavenVersion>
+    <mavenVersion>3.0</mavenVersion>
     <wagonVersion>2.10</wagonVersion>
     <scmVersion>1.9.5</scmVersion>
     <sitePluginVersion>3.5.1</sitePluginVersion>
@@ -192,7 +192,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-common-artifact-filters</artifactId>
-      <version>1.4</version>
+      <version>3.0.0</version>
     </dependency>
 
     <!-- Wagon -->
@@ -346,7 +346,7 @@ under the License.
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-container-default</artifactId>
-      <version>1.0-alpha-9-stable-1</version>
+      <version>1.0.0</version>
     </dependency>
 
     <!-- Test -->
