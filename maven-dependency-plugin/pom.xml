@@ -222,7 +222,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-artifact-transfer</artifactId>
-      <version>0.9.1</version>
+      <version>0.13.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
@@ -407,7 +407,7 @@ under the License.
                   <source>src/test/resources/m2repo</source>
                 </mockRepo>
                  -->
-                <proxyRepo />
+                <proxyRepo/>
               </repositories>
             </configuration>
           </plugin>
