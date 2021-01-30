@@ -217,7 +217,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-common-artifact-filters</artifactId>
-      <version>3.0.1</version>
+      <version>3.1.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
@@ -407,7 +407,7 @@ under the License.
                   <source>src/test/resources/m2repo</source>
                 </mockRepo>
                  -->
-                <proxyRepo />
+                <proxyRepo/>
               </repositories>
             </configuration>
           </plugin>
