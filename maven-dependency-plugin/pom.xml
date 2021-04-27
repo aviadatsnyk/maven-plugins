@@ -154,7 +154,7 @@ under the License.
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-      <version>2.5</version>
+      <version>2.7</version>
     </dependency>
 
     <!-- doxia -->
@@ -173,7 +173,7 @@ under the License.
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-archiver</artifactId>
-      <version>3.4</version>
+      <version>3.5</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
@@ -407,7 +407,7 @@ under the License.
                   <source>src/test/resources/m2repo</source>
                 </mockRepo>
                  -->
-                <proxyRepo />
+                <proxyRepo/>
               </repositories>
             </configuration>
           </plugin>
