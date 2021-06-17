@@ -57,8 +57,8 @@
   </distributionManagement>
 
   <properties>
-    <mavenArchiverVersion>3.2.0</mavenArchiverVersion>
-    <mavenFilteringVersion>3.1.1</mavenFilteringVersion>
+    <mavenArchiverVersion>3.5.1</mavenArchiverVersion>
+    <mavenFilteringVersion>3.2.0</mavenFilteringVersion>
     <mavenVersion>3.0</mavenVersion>
     <javaVersion>7</javaVersion>
   </properties>
@@ -102,12 +102,12 @@
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-      <version>2.5</version>
+      <version>2.7</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-archiver</artifactId>
-      <version>3.5</version>
+      <version>3.7.0</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
