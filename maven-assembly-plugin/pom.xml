@@ -59,8 +59,8 @@ under the License.
   <properties>
     <javaVersion>7</javaVersion>
     <mdoVersion>2.0.0</mdoVersion>
-    <mavenArchiverVersion>3.2.0</mavenArchiverVersion>
-    <mavenFilteringVersion>3.1.1</mavenFilteringVersion>
+    <mavenArchiverVersion>3.5.1</mavenArchiverVersion>
+    <mavenFilteringVersion>3.2.0</mavenFilteringVersion>
     <mavenVersion>3.0</mavenVersion>
     <testOutputToFile>true</testOutputToFile>
     <checkstyle.violation.ignore>RedundantThrows,NewlineAtEndOfFile,ParameterNumber,MethodLength,FileLength,ModifierOrder,JavadocMethod</checkstyle.violation.ignore>
@@ -111,7 +111,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-artifact-transfer</artifactId>
-      <version>0.9.0</version>
+      <version>0.13.1</version>
     </dependency>
 
     <dependency>
