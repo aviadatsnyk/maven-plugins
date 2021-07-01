@@ -64,7 +64,7 @@ under the License.
     <maven.compiler.target>1.${javaVersion}</maven.compiler.target>
     <mavenVersion>3.0</mavenVersion>
     <checkstyleVersion>6.18</checkstyleVersion>
-    <doxiaVersion>1.4</doxiaVersion>
+    <doxiaVersion>1.10</doxiaVersion>
     <sitePluginVersion>3.4</sitePluginVersion>
   </properties>
 
