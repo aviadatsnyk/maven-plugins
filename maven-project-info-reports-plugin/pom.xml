@@ -113,7 +113,7 @@ under the License.
 
   <properties>
     <doxiaVersion>1.6</doxiaVersion>
-    <doxia-sitetoolsVersion>1.6</doxia-sitetoolsVersion>
+    <doxia-sitetoolsVersion>1.10</doxia-sitetoolsVersion>
     <mavenVersion>2.2.1</mavenVersion>
     <wagonVersion>2.10</wagonVersion>
     <scmVersion>1.9.5</scmVersion>
