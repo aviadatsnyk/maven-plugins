@@ -82,7 +82,7 @@ under the License.
 
   <properties>
     <mavenVersion>3.0</mavenVersion>
-    <doxiaVersion>1.4</doxiaVersion>
+    <doxiaVersion>1.10</doxiaVersion>
     <pluginTestingVersion>2.1</pluginTestingVersion>
   </properties>
 
@@ -407,7 +407,7 @@ under the License.
                   <source>src/test/resources/m2repo</source>
                 </mockRepo>
                  -->
-                <proxyRepo />
+                <proxyRepo/>
               </repositories>
             </configuration>
           </plugin>
