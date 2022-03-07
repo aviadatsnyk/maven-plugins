@@ -69,7 +69,7 @@
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-annotations</artifactId>
-      <version>3.5</version>
+      <version>3.6.2</version>
       <scope>provided</scope>
     </dependency>
     <!-- Maven -->
@@ -167,7 +167,7 @@
                       <exclude>org.ow2.asm:asm</exclude>
                     </excludes>
                   </enforceBytecodeVersion>
-                  <requireSameVersions />
+                  <requireSameVersions/>
                 </rules>
               </configuration>
             </execution>
@@ -220,7 +220,7 @@
                 <mockRepo>
                   <source>src/it/mrm/repository</source>
                 </mockRepo>
-                <proxyRepo />
+                <proxyRepo/>
               </repositories>
             </configuration>
           </plugin>
